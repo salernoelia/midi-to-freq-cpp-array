@@ -1,6 +1,6 @@
 # MIDI to Frequency Converter
 
-Converts MIDI files into C++ compatible frequency arrays, splitting notes into groups of 4 tones with their respective durations.
+Converts MIDI files into C++ compatible frequency arrays, splitting notes into groups of 4 tones with their respective durations. The original usecase was to automate the sound-design to microcontroller process for esp32.
 
 ## Installation
 
